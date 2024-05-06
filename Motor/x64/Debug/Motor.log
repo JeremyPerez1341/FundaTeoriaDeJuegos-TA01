@@ -1,0 +1,5 @@
+﻿  MainGame.cpp
+C:\Users\jerem\Desktop\jeremy-3\Motor-juego\Motor\Motor\MainGame.cpp(40,14): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jerem\Desktop\jeremy-3\Motor-juego\Motor\Motor\MainGame.cpp(60,56): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jerem\Desktop\jeremy-3\Motor-juego\Motor\Motor\MainGame.cpp(72,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Motor.vcxproj -> C:\Users\jerem\Desktop\jeremy-3\Motor-juego\Motor\x64\Debug\Motor.exe
